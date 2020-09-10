@@ -76,3 +76,5 @@ Statically is free optimization & CDN for images, CSS, JavaScript, and open sour
 <h2 align="center">Backers via Patreon</h2>
 
 - Rytis Petkevicius
+- Detlef Jost
+
